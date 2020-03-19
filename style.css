@@ -20,3 +20,10 @@ html {
 .sound-keyboard-child{
     /* background-color: aquamarine; */
 }
+
+.key {
+   display:inline-block;
+   border:1px solid red; 
+   padding:10px;
+   margin-bottom:5px; 
+}
